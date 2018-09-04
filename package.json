@@ -1,0 +1,22 @@
+{
+  "name": "alexandria",
+  "version": "1.0.0",
+  "description": "Project management and goal tracking for my life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawndoyle/alexandria.git"
+  },
+  "author": "Shawn Robert Doyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawndoyle/alexandria/issues"
+  },
+  "homepage": "https://github.com/shawndoyle/alexandria#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

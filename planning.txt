@@ -1,0 +1,21 @@
+What I need
+	Projects
+		Description
+		Goals
+			Subgoals all the way down
+			Next due date
+			Repeats?
+			Reminder
+			Notes
+			Completed/incomplete/archived
+		Notes
+		Active/inactive/archived /completed
+
+	Habits
+		Description
+		How frequently to log the habit
+		Value at each log for the habit
+			Ex km run or a yes/no habit
+
+	To Do List
+		All goals sorted by next due date

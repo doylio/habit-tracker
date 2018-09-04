@@ -1,0 +1,36 @@
+
+Project
+{
+	"name": "Alexandria",
+	"description": "Here is a description of the Project",
+	"status": "In Progress",
+	"goals": ["goals go in here"],
+	"notes": ["notes go in here"]
+}
+
+
+goal
+{
+	"name": "Clean computer",
+	"subgoals": ["goal", "goal"],
+	"status": "complete",
+	"next_due": "Oct-10",
+	"repeats": "Weekly",
+	"notes": ["notes go in here"]
+}
+
+Habit 
+{
+	"name": "Go to the gym",
+	"how frequently to check": "daily",
+	"data": [
+		{
+			"time": "Oct-1 9am",
+			"value": 1
+		},
+		{
+			"time": "Oct-3 9am",
+			"value": 0
+		}
+	]
+}
